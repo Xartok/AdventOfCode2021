@@ -1,0 +1,28 @@
+{
+  "name": "aoc2021",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "heap": "^0.2.7",
+    "immutable": "^4.0.0",
+    "lodash": "^4.17.21",
+    "ramda": "^0.27.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/heap": "^0.2.29",
+    "@types/jest": "^27.0.3",
+    "@types/immutable": "^3.8.7",
+    "@types/lodash": "^4.14.178",
+    "@types/node": "14.14.45",
+    "@types/ramda": "^0.27.62",
+    "jest": "^27.4.5",
+    "prettier": "^2.5.1",
+    "ts-jest": "^27.1.2"
+  },
+  "scripts": {
+    "run-exo-5": "ts-node ./5.ts"
+  }
+}
