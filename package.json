@@ -26,6 +26,7 @@
     "run-exo-5": "ts-node ./5.ts",
     "run-exo-6": "ts-node ./6.ts",
     "run-exo-7": "ts-node ./7.ts",
+    "run-exo-8": "ts-node ./8.ts",
     "run-exo-9": "ts-node ./9.ts",
     "run-exo-10": "ts-node ./10.ts",
     "run-exo-11": "ts-node ./11.ts",
